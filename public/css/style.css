@@ -124,6 +124,23 @@ h1{
 	flex-wrap: wrap;
 }
 
+.link{
+	background-color: #F2EDEA;
+	box-shadow: 10px 10px 15px -10px;
+	border-radius: 16px;
+}
+.link h3{
+	text-align: center;
+}
+.link-page1{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.link-page2{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
 /*フッター*/
 
 .info {
